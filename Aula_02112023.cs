@@ -1,6 +1,6 @@
 ﻿
 ##testandos
-
+*comando git push
 ## Salvadno alteracoes no git
 ##testando denovod
 using System;
