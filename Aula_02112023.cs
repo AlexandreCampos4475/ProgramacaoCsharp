@@ -4,6 +4,7 @@
 ## Salvadno alteracoes no git
 ##testando denovod
 #comando git pull
+#comando git fetch
 using System;
 using System.Collections.Generic;
 using System.Linq;
