@@ -3,6 +3,7 @@
 *comando git push
 ## Salvadno alteracoes no git
 ##testando denovod
+#comando git pull
 using System;
 using System.Collections.Generic;
 using System.Linq;
